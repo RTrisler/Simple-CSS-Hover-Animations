@@ -1,2 +1,3 @@
-# Simple-CSS-Hover-Animations
-4 different styles of hover animations on icons.
+# Simple Hover Animations
+4 Icons with different color changing animations on hover 
+## Overview
